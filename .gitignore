@@ -70,5 +70,3 @@ spring.log
 
 # Windows
 desktop.ini
-
-src/main/resources/application-local.properties
