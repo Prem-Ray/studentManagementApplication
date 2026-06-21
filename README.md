@@ -98,5 +98,3 @@ src/main/java
 ## Author
 
 **Premanshu Ray**
-
-Java Backend Developer | Spring Boot Enthusiast
